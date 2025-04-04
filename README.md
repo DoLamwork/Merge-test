@@ -1,2 +1,3 @@
-# Merge-test
-Merge test
+# Mô tả bản thân
+## Thông tin chung
+**Tên**: Đỗ Tùng Lâm
